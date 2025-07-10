@@ -6,7 +6,8 @@ https://looking9218.github.io/GlobeReady/globe_ready_demo.html
 
 ![PretrainingOverview](https://github.com/user-attachments/assets/af303852-436a-4644-89a3-fc22bb8cc975)
 
-# Pre-trained weights for RetiGlobe can be accessed by the following link:
+# Pre-trained weights for RetiGlobe:
+
 ![Pretrained weights for CFP] (https://drive.google.com/file/d/1TBfUppEqA9i3WMIz62xgwKWtN2JDBZyy)
 
 ![Pretrained weights for OCT] (https://drive.google.com/file/d/1agoH70WM9ulyym6uKX3yrEk_4FXfxPvX)
