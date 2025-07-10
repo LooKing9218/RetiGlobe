@@ -5,6 +5,7 @@ Foundation models show great potential for advancing imaging diagnostics; howeve
 # Demo videos for GlobeReady platform can be accessed by the following link:
 [Demo videos for GlobeReady platform](https://looking9218.github.io/GlobeReady/globe_ready_demo.html)
 
+# Overview
 ![PretrainingOverview](https://github.com/user-attachments/assets/af303852-436a-4644-89a3-fc22bb8cc975)
 
 # Pre-trained weights for RetiGlobe:
