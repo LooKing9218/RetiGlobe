@@ -8,18 +8,7 @@ Foundation models show great potential for advancing imaging diagnostics; howeve
 # Overview
 ![PretrainingOverview](https://github.com/user-attachments/assets/af303852-436a-4644-89a3-fc22bb8cc975)
 
-# Pre-trained weights for RetiGlobe:
-[Pretrained weights for CFP](https://drive.google.com/file/d/1TBfUppEqA9i3WMIz62xgwKWtN2JDBZyy)
+# The pre-trained weights and code will be made publicly available after the paper is published.
 
-[Pretrained weights for OCT](https://drive.google.com/file/d/1agoH70WM9ulyym6uKX3yrEk_4FXfxPvX)
-
-# Create and activate conda environment
-
-conda create -n retiglobe python=3.9 -y
-
-conda activate retiglobe
-
-# Install dependencies
-pip install -r requirements.txt
 
 
