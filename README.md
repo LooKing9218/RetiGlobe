@@ -8,7 +8,7 @@ Foundation models show great potential for advancing imaging diagnostics; howeve
 # Overview
 ![PretrainingOverview](https://github.com/user-attachments/assets/af303852-436a-4644-89a3-fc22bb8cc975)
 
-# The pre-trained weights and code will be made publicly available after the paper is published.
+# The code and pre-trained weights will be made publicly available after the paper is published.
 
 
 
